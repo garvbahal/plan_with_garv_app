@@ -31,6 +31,7 @@ body {
   border: 7px dashed rgb(1, 17, 160);
   border-radius: 20px;
   padding: 1vh 5vw;
+  text-align: center;
 }
 
 .cards {
